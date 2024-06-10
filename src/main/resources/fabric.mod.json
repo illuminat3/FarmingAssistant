@@ -1,0 +1,24 @@
+{
+	"schemaVersion": 1,
+	"id": "template",
+	"version": "${version}",
+	"name": "Template mod",
+	"description": "Template mod",
+	"authors": ["illuminat3"],
+	"contact": {
+		"homepage": "https://github.com/illuminat3",
+		"sources": "https://github.com/illuminat3/Fabric-Mod-Template"
+	},
+	"license": "MIT",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.illuminat3.template.templateMod"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.12.5",
+		"fabric": "*",
+		"minecraft": "1.20.6"
+	}
+}

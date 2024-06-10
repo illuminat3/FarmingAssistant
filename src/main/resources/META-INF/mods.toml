@@ -1,0 +1,10 @@
+modLoader = "fabric"
+loaderVersion = "[>=0.12.5]"
+license = "MIT"
+[[mods]]
+modId = "template"
+version = "1.0.0"
+displayName = "Template Mod"
+description = "Template Mod"
+authors = ["illuminat3"]
+contact = { homepage = "https://github.com/illuminat3", sources = "https://github.com/illuminat3/Fabric-Mod-Template" }
