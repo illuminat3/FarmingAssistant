@@ -30,7 +30,7 @@ java {
 
 loom {
 	mixin {
-		defaultRefmapName = "easyelytra.refmap.json"
+		defaultRefmapName = "farmingassistant.refmap.json"
 	}
 }
 
